@@ -68,5 +68,5 @@ The model parameters (keypad geometry, Fitts' law constants, sampling with rando
 
 ## Contact
 
-Roi Mateo (roimateo.nsofts@gmail.com), Kiley Kunze Zhai (zhai16263@gmail.com), Suzuki Motoyasu (suzukimotoyasu9429@outlook.com)
+Kiley Kunze Zhai (zhai16263@gmail.com), Roi Mateo (roimateo.nsofts@gmail.com), Suzuki Motoyasu (suzukimotoyasu9429@outlook.com)
 "# SBEW-Embedded-Wallet-Web3" 
